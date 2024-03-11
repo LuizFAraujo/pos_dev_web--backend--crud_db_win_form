@@ -14,13 +14,15 @@ D1DBE - DESENVOLVIMENTO BACK-END I
 - Cria ao menos três tabelas, com pelo menos cinco campos cada.
 - Linguagem e banco a utilizar, conforme a preferência de cada um.
 
-Por preferência, as atividades foram desenvolvidas utilizando Windows Forms/C#.
+Por preferência, as atividades foram desenvolvidas utilizando Windows Forms/C#.</br>
 E, por simplicidade, utilizado o SQlite.
 
 <!-- ----------------------------------------------------------- -->
 ## ⚙️ Executando os testes
 
-Ao compiliar as atividades, é gerado um .exe, abaixo o local onde encontrar e poder fazer uma verificação rápida.
+Ao compiliar as atividades, é gerado um .exe, abaixo o local onde encontrar e poder fazer uma verificação rápida.</br>
+Porém não finalizado completamente!</br>
+A tela principal contêm bugs, na junção de tabelas (resolver depois e reformular).
 
 ### 🔩 Caminho do executável
 
